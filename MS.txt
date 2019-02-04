@@ -1,7 +1,16 @@
+
+
 Branch and Merge
+<<<<<<< HEAD
 <<<<<<< HEAD
 This is the first merge and branch assignment
 =======
 
 Hi Stella, how was your weekend? Did you have fun?
 >>>>>>> sbranch
+=======
+
+
+
+Vindu Vichenjanga
+>>>>>>> 686584b9673a60dd05f70b74721029d54124012d
